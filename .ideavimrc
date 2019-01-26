@@ -1,0 +1,5 @@
+set clipboard=unnamedplus
+set surround
+map <C-;> A;<Esc>
+nnoremap j jzz
+nnoremap k kzz
